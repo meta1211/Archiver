@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\soulsold\source\repos\archiver\archiver\source.cpp(316): warning C4101: byte: неиспользованная локальная переменная
+  Archiver.vcxproj -> C:\Users\SoulSold\source\repos\Archiver\Debug\Archiver.exe
